@@ -5,5 +5,5 @@ dengan validasi input menggunakan Regular Expression (Regex).
 
 ## Fitur Validasi:
 - Nama (Hanya huruf dan spasi)
-- NIM (Angka 8-12 digit)
+- NIM (Angka 13 digit)
 - Nilai (Angka rentang 0-100)
